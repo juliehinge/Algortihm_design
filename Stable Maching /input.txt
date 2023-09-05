@@ -1,0 +1,6 @@
+2 1 3
+bears alice
+falcons alice bob charlie
+alice bears falcons
+bob falcons bears
+charlie falcons bears
